@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3265CC</color>
+    <color name="colorPrimaryDark">#2255BC</color>
+    <color name="colorAccent">#4CE1BA</color>
+    <color name="black_overlay">#66000000</color>
+
+    <color name="fb_blue">#3b5998</color>
+    <color name="yellow">#FFE013</color>
+
+</resources>
